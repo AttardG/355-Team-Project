@@ -1,0 +1,4 @@
+703,"Service nicht gefunden"
+805,"Sprache nicht gefunden"
+806,"Wort nicht gefunden"
+813,"Steuerberechnung nicht gefunden"
