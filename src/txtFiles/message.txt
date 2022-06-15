@@ -1,0 +1,3 @@
+GERMAN, msgGer.txt
+SPANISH, msgSpn.txt
+ENGLISH, msgEng.txt
